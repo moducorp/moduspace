@@ -3,5 +3,7 @@
 
 1. Skill Set
  - Server : node.js
+ - Front : Bootstrap, AngularJS
+ - DB : MariaDB
  
 2. hahahah
